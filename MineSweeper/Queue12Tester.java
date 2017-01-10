@@ -1,4 +1,3 @@
-package hw4;
 
 import static org.junit.Assert.*;
 import org.junit.*;
