@@ -5,7 +5,6 @@
  * @author Christine Alvarado
  * @date April 19, 2014
  * */
-package hw4;
 import javax.swing.JFrame;
 import javax.swing.JButton;
 
